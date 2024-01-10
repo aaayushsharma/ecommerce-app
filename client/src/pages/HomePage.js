@@ -110,7 +110,8 @@ const HomePage = () => {
     <Layout title={"ALl Products - Best offers "}>
       {/* banner image */}
       <img
-        src="/images/banner.png"
+        src="https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704844800&semt=sph"
+        style={{height:"400px"}}
         className="banner-img"
         alt="bannerimage"
         width={"100%"}
